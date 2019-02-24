@@ -3,3 +3,7 @@ body{
 	margin:0px;
 	background-color:green;
 }
+h1{
+	font-weight:bold;
+	font-size:32px;
+}
