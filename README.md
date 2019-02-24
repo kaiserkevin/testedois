@@ -1,0 +1,1 @@
+Este projeto tem como objetivo testar conceitos do git, botá-los em prática e apreender da melhor forma possível :)
